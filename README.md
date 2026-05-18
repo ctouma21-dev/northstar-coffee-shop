@@ -4,7 +4,7 @@ An AI-powered onboarding chatbot for new hires at Northstar Coffee. Powered by C
 
 ## Live Site
 
-> URL added after Vercel deployment
+**[northstar-coffee-shop.vercel.app](https://northstar-coffee-shop.vercel.app)**
 
 ## Tech Stack
 
